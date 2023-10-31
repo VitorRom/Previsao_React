@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VitorRom/Previsao_React/static/css/main.ca384d61.css",
-    "main.js": "/VitorRom/Previsao_React/static/js/main.885b1a38.js",
-    "static/js/787.ec411d0e.chunk.js": "/VitorRom/Previsao_React/static/js/787.ec411d0e.chunk.js",
-    "index.html": "/VitorRom/Previsao_React/index.html",
-    "main.ca384d61.css.map": "/VitorRom/Previsao_React/static/css/main.ca384d61.css.map",
-    "main.885b1a38.js.map": "/VitorRom/Previsao_React/static/js/main.885b1a38.js.map",
-    "787.ec411d0e.chunk.js.map": "/VitorRom/Previsao_React/static/js/787.ec411d0e.chunk.js.map"
+    "main.css": "/Previsao_React/static/css/main.ca384d61.css",
+    "main.js": "/Previsao_React/static/js/main.af19fc5a.js",
+    "static/js/787.ec411d0e.chunk.js": "/Previsao_React/static/js/787.ec411d0e.chunk.js",
+    "index.html": "/Previsao_React/index.html",
+    "main.ca384d61.css.map": "/Previsao_React/static/css/main.ca384d61.css.map",
+    "main.af19fc5a.js.map": "/Previsao_React/static/js/main.af19fc5a.js.map",
+    "787.ec411d0e.chunk.js.map": "/Previsao_React/static/js/787.ec411d0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca384d61.css",
-    "static/js/main.885b1a38.js"
+    "static/js/main.af19fc5a.js"
   ]
 }
