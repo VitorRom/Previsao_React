@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Previsao_React/static/css/main.0067d1ff.css",
-    "main.js": "/Previsao_React/static/js/main.af19fc5a.js",
+    "main.css": "/Previsao_React/static/css/main.fdd7da29.css",
+    "main.js": "/Previsao_React/static/js/main.8b4cb5b7.js",
     "static/js/787.ec411d0e.chunk.js": "/Previsao_React/static/js/787.ec411d0e.chunk.js",
+    "static/media/white-cloud-blue-sky_74190-2381.jpg": "/Previsao_React/static/media/white-cloud-blue-sky_74190-2381.6d8b1bd276a60a31d7f3.jpg",
     "index.html": "/Previsao_React/index.html",
-    "main.0067d1ff.css.map": "/Previsao_React/static/css/main.0067d1ff.css.map",
-    "main.af19fc5a.js.map": "/Previsao_React/static/js/main.af19fc5a.js.map",
+    "main.fdd7da29.css.map": "/Previsao_React/static/css/main.fdd7da29.css.map",
+    "main.8b4cb5b7.js.map": "/Previsao_React/static/js/main.8b4cb5b7.js.map",
     "787.ec411d0e.chunk.js.map": "/Previsao_React/static/js/787.ec411d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0067d1ff.css",
-    "static/js/main.af19fc5a.js"
+    "static/css/main.fdd7da29.css",
+    "static/js/main.8b4cb5b7.js"
   ]
 }
