@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b2b0aa4.css",
-    "main.js": "/static/js/main.640b7eb0.js",
-    "static/js/787.ec411d0e.chunk.js": "/static/js/787.ec411d0e.chunk.js",
-    "static/media/cloudy.png": "/static/media/cloudy.cbe020b484289f72b7ad.png",
-    "static/media/heavy_rain.png": "/static/media/heavy_rain.6e115dd05640f11e5117.png",
-    "static/media/rainy_day.png": "/static/media/rainy_day.773226d50468fab05b2a.png",
-    "static/media/partly_cloudy.png": "/static/media/partly_cloudy.81ca995476553dede821.png",
-    "static/media/white-cloud-blue-sky_74190-2381.jpg": "/static/media/white-cloud-blue-sky_74190-2381.fa3181f29b72ebdfa9f3.jpg",
-    "index.html": "/index.html",
-    "main.1b2b0aa4.css.map": "/static/css/main.1b2b0aa4.css.map",
-    "main.640b7eb0.js.map": "/static/js/main.640b7eb0.js.map",
-    "787.ec411d0e.chunk.js.map": "/static/js/787.ec411d0e.chunk.js.map"
+    "main.css": "/Previsao_React/static/css/main.e1fa43dc.css",
+    "main.js": "/Previsao_React/static/js/main.7cbe511f.js",
+    "static/js/787.ec411d0e.chunk.js": "/Previsao_React/static/js/787.ec411d0e.chunk.js",
+    "static/media/cloudy.png": "/Previsao_React/static/media/cloudy.cbe020b484289f72b7ad.png",
+    "static/media/heavy_rain.png": "/Previsao_React/static/media/heavy_rain.6e115dd05640f11e5117.png",
+    "static/media/rainy_day.png": "/Previsao_React/static/media/rainy_day.773226d50468fab05b2a.png",
+    "static/media/partly_cloudy.png": "/Previsao_React/static/media/partly_cloudy.81ca995476553dede821.png",
+    "static/media/white-cloud-blue-sky_74190-2381.jpg": "/Previsao_React/static/media/white-cloud-blue-sky_74190-2381.fa3181f29b72ebdfa9f3.jpg",
+    "index.html": "/Previsao_React/index.html",
+    "main.e1fa43dc.css.map": "/Previsao_React/static/css/main.e1fa43dc.css.map",
+    "main.7cbe511f.js.map": "/Previsao_React/static/js/main.7cbe511f.js.map",
+    "787.ec411d0e.chunk.js.map": "/Previsao_React/static/js/787.ec411d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b2b0aa4.css",
-    "static/js/main.640b7eb0.js"
+    "static/css/main.e1fa43dc.css",
+    "static/js/main.7cbe511f.js"
   ]
 }
