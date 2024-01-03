@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Previsao_React/static/css/main.befdd0fa.css",
-    "main.js": "/Previsao_React/static/js/main.794f7e6f.js",
-    "static/js/787.ec411d0e.chunk.js": "/Previsao_React/static/js/787.ec411d0e.chunk.js",
-    "static/media/cloudy.png": "/Previsao_React/static/media/cloudy.cbe020b484289f72b7ad.png",
-    "static/media/heavy_rain.png": "/Previsao_React/static/media/heavy_rain.6e115dd05640f11e5117.png",
-    "static/media/rainy_day.png": "/Previsao_React/static/media/rainy_day.023d75be1ce7c71d2773.png",
-    "static/media/partly_cloudy.png": "/Previsao_React/static/media/partly_cloudy.81ca995476553dede821.png",
-    "static/media/night.png": "/Previsao_React/static/media/night.c16ef230e325b46883f2.png",
-    "static/media/rain_possibility.png": "/Previsao_React/static/media/rain_possibility.d68bd061af19d7672ce7.png",
-    "static/media/white-cloud-blue-sky_74190-2381.jpg": "/Previsao_React/static/media/white-cloud-blue-sky_74190-2381.fa3181f29b72ebdfa9f3.jpg",
-    "static/media/ceu-nublado-a-noite-com-lua_73110-5013.jpg": "/Previsao_React/static/media/ceu-nublado-a-noite-com-lua_73110-5013.5d545b8a0896372980bf.jpg",
-    "index.html": "/Previsao_React/index.html",
-    "main.befdd0fa.css.map": "/Previsao_React/static/css/main.befdd0fa.css.map",
-    "main.794f7e6f.js.map": "/Previsao_React/static/js/main.794f7e6f.js.map",
-    "787.ec411d0e.chunk.js.map": "/Previsao_React/static/js/787.ec411d0e.chunk.js.map"
+    "main.css": "/static/css/main.08c82e01.css",
+    "main.js": "/static/js/main.161cfce2.js",
+    "static/js/787.ec411d0e.chunk.js": "/static/js/787.ec411d0e.chunk.js",
+    "static/media/cloudy.png": "/static/media/cloudy.cbe020b484289f72b7ad.png",
+    "static/media/heavy_rain.png": "/static/media/heavy_rain.6e115dd05640f11e5117.png",
+    "static/media/rainy_day.png": "/static/media/rainy_day.023d75be1ce7c71d2773.png",
+    "static/media/partly_cloudy.png": "/static/media/partly_cloudy.81ca995476553dede821.png",
+    "static/media/night.png": "/static/media/night.c16ef230e325b46883f2.png",
+    "static/media/rain_possibility.png": "/static/media/rain_possibility.d68bd061af19d7672ce7.png",
+    "static/media/white-cloud-blue-sky_74190-2381.jpg": "/static/media/white-cloud-blue-sky_74190-2381.fa3181f29b72ebdfa9f3.jpg",
+    "static/media/ceu-nublado-a-noite-com-lua_73110-5013.jpg": "/static/media/ceu-nublado-a-noite-com-lua_73110-5013.5d545b8a0896372980bf.jpg",
+    "index.html": "/index.html",
+    "main.08c82e01.css.map": "/static/css/main.08c82e01.css.map",
+    "main.161cfce2.js.map": "/static/js/main.161cfce2.js.map",
+    "787.ec411d0e.chunk.js.map": "/static/js/787.ec411d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.befdd0fa.css",
-    "static/js/main.794f7e6f.js"
+    "static/css/main.08c82e01.css",
+    "static/js/main.161cfce2.js"
   ]
 }
